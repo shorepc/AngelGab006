@@ -3,6 +3,14 @@
      <h1>Hi👋 i am Angel</h1>
     <h5>I am a beginner front-end developer, I had been learning programing from 2020 at school and by my self education, and I have 1 month in the real business area of programing, in my years or programming I learn about analysis and design of systems (theoretically and practically), management of database and, web develop and design. And that makes me an enthusiastic lover of programming with the determination of learning more.</h3>
 </div>
+
+  ### about me:
+ 
+ - I am currently a student 👨‍🎓
+ - I love learn new things 👨‍🔬
+ - I am learning javascript, git and css 👨‍💻
+ - And wherever i am; i want to participate and help 🙋‍♂️
+
    <h3 align="left">Connect with me in:</h3>
    <div align="left">
    <a href="https://linkedin.com/in/angel-gabriel-nuñez-beltre-b00b3425b" target="blank">
@@ -44,13 +52,10 @@
     <a href="https://www.python.org" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
-</div>
+</div>&nbsp;
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgab006&show_icons=true&locale=en&layout=compact" alt="angelgab006" />
-</div>
-<div>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelgab006&show_icons=true&locale=en" alt="angelgab006" />
-</div>
+</div>&nbsp;
 <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelgab006&" alt="angelgab006" />
 </div>
