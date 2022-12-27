@@ -59,3 +59,7 @@
 <div>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angelgab006&" alt="angelgab006" />
 </div>
+
+![Snake animation](https://github.com/AngelGab006/AngelGab006/blob/output/github-contribution-grid-snake.svg)
+
+---
