@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="230px"/>
+</div>
 
 <!--
 **AngelGab006/AngelGab006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
