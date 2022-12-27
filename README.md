@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy-downsized.gif" alt="gif-code_flow" width="230px"/>
-     <h1>Hi👋 i am Angel</h1>
+     <h1>Hi👋 I am Angel</h1>
     <h5>I am a beginner front-end developer, I had been learning programing from 2020 at school and by my self education, and I have 1 month in the real business area of programing, in my years or programming I learn about analysis and design of systems (theoretically and practically), management of database and, web develop and design. And that makes me an enthusiastic lover of programming with the determination of learning more.</h3>
 </div>
 
