@@ -19,7 +19,7 @@
          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel-gabriel-nuñez-beltre-b00b3425b" height="30" width="40" />
    </a>
    <a href="mailto:angelbeltrea.20@gmail.com?Subject=From%20github">
-         <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" alt="angelbeltrea.20@gmail.com" height="30" width="40" />
+         <img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="angelbeltrea.20@gmail.com" height="30" width="40" />
    </a>
    </div>
    <h3 align="left">Languages and Tools:</h3>
