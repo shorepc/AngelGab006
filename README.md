@@ -8,10 +8,10 @@
 
   ### about me:
  
- - I am currently a student 👨‍🎓
- - I love learn new things 👨‍🔬
- - I am learning javascript, git and css 👨‍💻
- - And wherever I am; I want to participate and help 🙋‍♂️
+ - I am currently a student. 👨‍🎓
+ - I want to learn new things. 👨‍🔬
+ - I am currently learning javascript, git and css. 👨‍💻
+ - And wherever I am; I want to participate and help. 🙋‍♂️
 
    <h3 align="left">Connect with me in:</h3>
    <div align="left">
